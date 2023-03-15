@@ -4,11 +4,6 @@ from tkinter import ttk
 
 
 
-
-
-
-
-
 class View_menu:
 
 
