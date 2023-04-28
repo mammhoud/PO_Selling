@@ -34,48 +34,48 @@ class View_menu:
         label1 = Label(self.screen, text="Faaiz POS ", relief="groove", fg="#074466", bg="Yellow",
                        font=("times in roman", 20, "bold"), pady=2).place(x=600,y=15)
 
-        self.bg_img = ImageTk.PhotoImage(file="image1.png")
-        self.bg_img2 = ImageTk.PhotoImage(file="juice.png")
+        self.bg_img = ImageTk.PhotoImage(file="products/image1.png")
+        self.bg_img2 = ImageTk.PhotoImage(file="products/juice.png")
 
 
     # Row 1
-        self.bg_img00 = ImageTk.PhotoImage(file="tshirt.jpg")
-        self.bg_img01 = ImageTk.PhotoImage(file="shirt.jpg")
-        self.bg_img02 = ImageTk.PhotoImage(file="Pant.jpg")
-        self.bg_img03 = ImageTk.PhotoImage(file="cap.jpg")
-        self.bg_img04 = ImageTk.PhotoImage(file="mask.jpg")
-        self.bg_img05 = ImageTk.PhotoImage(file="watch.jpg")
-        self.bg_img06 = ImageTk.PhotoImage(file="shoes.jpg")
+        self.bg_img00 = ImageTk.PhotoImage(file="products/tshirt.jpg")
+        self.bg_img01 = ImageTk.PhotoImage(file="products/shirt.jpg")
+        self.bg_img02 = ImageTk.PhotoImage(file="products/Pant.jpg")
+        self.bg_img03 = ImageTk.PhotoImage(file="products/cap.jpg")
+        self.bg_img04 = ImageTk.PhotoImage(file="products/mask.jpg")
+        self.bg_img05 = ImageTk.PhotoImage(file="products/watch.jpg")
+        self.bg_img06 = ImageTk.PhotoImage(file="products/shoes.jpg")
 
     # Row 2
 
-        self.bg_img10 = ImageTk.PhotoImage(file="boy.jpg")
-        self.bg_img11 = ImageTk.PhotoImage(file="baby.jpg")
-        self.bg_img12 = ImageTk.PhotoImage(file="kshoes.jpg")
-        self.bg_img13 = ImageTk.PhotoImage(file="bag.jpg")
-        self.bg_img14 = ImageTk.PhotoImage(file="car.jpg")
-        self.bg_img15 = ImageTk.PhotoImage(file="powder.jpg")
-        self.bg_img16 = ImageTk.PhotoImage(file="hand wash.jpg")
+        self.bg_img10 = ImageTk.PhotoImage(file="products/boy.jpg")
+        self.bg_img11 = ImageTk.PhotoImage(file="products/baby.jpg")
+        self.bg_img12 = ImageTk.PhotoImage(file="products/kshoes.jpg")
+        self.bg_img13 = ImageTk.PhotoImage(file="products/bag.jpg")
+        self.bg_img14 = ImageTk.PhotoImage(file="products/car.jpg")
+        self.bg_img15 = ImageTk.PhotoImage(file="products/powder.jpg")
+        self.bg_img16 = ImageTk.PhotoImage(file="products/hand wash.jpg")
 
     # Row 3
 
-        self.bg_img20 = ImageTk.PhotoImage(file="rice.jpg")
-        self.bg_img21 = ImageTk.PhotoImage(file="wheat.jpg")
-        self.bg_img22 = ImageTk.PhotoImage(file="masaly.jpg")
-        self.bg_img23 = ImageTk.PhotoImage(file="sugar.jpg")
-        self.bg_img24 = ImageTk.PhotoImage(file="harpic.jpg")
-        self.bg_img25 = ImageTk.PhotoImage(file="tapal.jpg")
-        self.bg_img26 = ImageTk.PhotoImage(file="surf excel.jpg")
+        self.bg_img20 = ImageTk.PhotoImage(file="products/rice.jpg")
+        self.bg_img21 = ImageTk.PhotoImage(file="products/wheat.jpg")
+        self.bg_img22 = ImageTk.PhotoImage(file="products/masaly.jpg")
+        self.bg_img23 = ImageTk.PhotoImage(file="products/sugar.jpg")
+        self.bg_img24 = ImageTk.PhotoImage(file="products/harpic.jpg")
+        self.bg_img25 = ImageTk.PhotoImage(file="products/tapal.jpg")
+        self.bg_img26 = ImageTk.PhotoImage(file="products/surf excel.jpg")
 
     # Row 4
 
-        self.bg_img30 = ImageTk.PhotoImage(file="water.jpg")
-        self.bg_img31 = ImageTk.PhotoImage(file="pepsi.jpg")
-        self.bg_img32 = ImageTk.PhotoImage(file="nesjuice.jpg")
-        self.bg_img33 = ImageTk.PhotoImage(file="bread.jpg")
-        self.bg_img34 = ImageTk.PhotoImage(file="egg.jpg")
-        self.bg_img35 = ImageTk.PhotoImage(file="jam.jpg")
-        self.bg_img36 = ImageTk.PhotoImage(file="milk.jpg")
+        self.bg_img30 = ImageTk.PhotoImage(file="products/water.jpg")
+        self.bg_img31 = ImageTk.PhotoImage(file="products/pepsi.jpg")
+        self.bg_img32 = ImageTk.PhotoImage(file="products/nesjuice.jpg")
+        self.bg_img33 = ImageTk.PhotoImage(file="products/bread.jpg")
+        self.bg_img34 = ImageTk.PhotoImage(file="products/egg.jpg")
+        self.bg_img35 = ImageTk.PhotoImage(file="products/jam.jpg")
+        self.bg_img36 = ImageTk.PhotoImage(file="products/milk.jpg")
 
 
 
