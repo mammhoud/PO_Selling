@@ -10,7 +10,7 @@ class View_menu:
 
     def __init__(self, screen):
         self.screen = screen
-        self.screen.geometry("1085x700")
+        self.screen.geometry("1285x800")
         self.screen.title("Faaiz POS")
         self.screen.configure(bg='light blue')
         self.cart={}
