@@ -6,3 +6,4 @@ This is course assignment/ project (POS) in which used the Python library Tkinte
 # trained to make an pos with qithub repos and docs
 # this is first ver dubuging project
 # the final will be in new repo
+# the fist design layout had been forked from faaiz
